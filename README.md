@@ -48,7 +48,7 @@ My focus is on building reliable software, ensuring product quality, and turning
 ---
 
 ## 🎯 Career Goals
-- Build expertise as a Junior QA Engineer & Junior Data Analyst  
+- Build expertise as a QA Engineer & Data Analyst  
 - Grow into a Backend-focused Software Engineer with Python & Go  
 - Move towards AI/ML Engineering for intelligent system development  
 
