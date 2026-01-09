@@ -8,16 +8,16 @@ My focus is on building reliable software, ensuring product quality, and turning
 
 ---
 
-## 🛠 Core Skills
+## Core Skills
 
-### 🧪 Quality Assurance
+### Quality Assurance
 - Manual Testing, Test Case Design & Execution  
 - Defect Life Cycle, Bug Tracking, SDLC / STLC  
 - UI & Functional Testing, Database Testing  
 - API Testing: Postman  
 - Automation Testing: Playwright, Selenium  
 
-### 📊 Data Analysis & BI
+### Data Analysis & BI
 - SQL, MySQL  
 - Excel, LibreOffice Calc, Google Sheets  
 - Power BI, Tableau  
@@ -25,7 +25,7 @@ My focus is on building reliable software, ensuring product quality, and turning
 - Trend Analysis & Predictive Analytics  
 - Python (pandas, NumPy)
 
-### ⚙️ Software Engineering
+### Software Engineering
 - Backend Development: FastAPI, Django  
 - Programming: Python, JavaScript, C, C++, Bash  
 - Linux OS, Linux Terminal, Shell Scripting  
@@ -34,7 +34,7 @@ My focus is on building reliable software, ensuring product quality, and turning
 
 ---
 
-## 📁 Project Domains
+## Project Domains
 - E-commerce Search & API QA Testing  
 - News Portal Bug Analysis (26+ Bugs)  
 - Smartphone Market Analysis – Bangladesh  
@@ -47,12 +47,12 @@ My focus is on building reliable software, ensuring product quality, and turning
 
 ---
 
-## 🎯 Career Goals
+## Career Goals
 - Build expertise as a QA Engineer & Data Analyst  
 - Grow into a Backend-focused Software Engineer with Python & Go  
 - Move towards AI/ML Engineering for intelligent system development  
 
 ---
 
-📫 **Email:** mehedihassanshimul81@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/mehedi_hassan81
+**Email:** mehedihassanshimul81@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/mehedi_hassan81
